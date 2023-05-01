@@ -11,6 +11,8 @@ Tableau public is free to use software to learn or to use for your orgainzation.
 4. Tableau Online
 5. Tableau Public
 
+Sample superstore workbook - https://public.tableau.com/workbooks/SuperSampleSuperstore.twb
+
 Tableau provides free version to learn tableau here is link to download tableau public https://www.tableau.com/products/public/download . You can fill dummy details also to download it's free version.
 
 Here is offical website of tableau to know more https://www.tableau.com/
