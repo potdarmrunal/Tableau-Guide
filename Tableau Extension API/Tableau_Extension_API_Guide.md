@@ -1,4 +1,5 @@
-Tableau Extension API
+<h3>Tableau Extension API</h3>
+<hr/>
 
 Offical website - https://www.tableau.com/developer/extensions#reveal-162758
 
@@ -18,7 +19,6 @@ Structure of source code of tableau extension api : It contains 3 main files
 
 Explaining sample here for simple web application using tomcat server
 a)Sample.html
-
 <html>
   <head>
     <meta charset="utf-8">
@@ -36,9 +36,7 @@ a)Sample.html
     <script src="./sample.js"></script>
   </head>
   <body>
-    <div class="container">
-        <h2>Hello Tableau... Extension API Calling</h2>
-    </div>
+    
   </body>
 </html>
 
@@ -71,6 +69,9 @@ c)Sample.trex
 host this application on server and drag extension object in tableau analytic pane configer .trex file and that's it you can see your web app in tableau dashboard.
 
 Details of .trex files by Andre de Vries are attached here - https://www.theinformationlab.co.uk/2018/08/07/whats-this-new-trex-filetype/
+
 Method References - https://tableau.github.io/extensions-api/docs/globals.html
+
 Offical Extension Samples - https://github.com/tableau/extensions-api/tree/main/Samples
+
 Article By Keshia - https://sliceofkeesh.com/post/snippets-popular-extensions-api-patterns
